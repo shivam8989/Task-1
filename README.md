@@ -47,4 +47,4 @@ This project is a responsive webpage featuring a fixed navbar, collapsible left 
 ## Preview
 A fully functional and responsive webpage with user-friendly features, designed to adapt to various screen sizes and enhance user interaction.
 ---
-For any issues or suggestions, feel free to contact the repository owner. Happy browsing!
+For any issues or suggestions, feel free to contact me. Happy browsing!
